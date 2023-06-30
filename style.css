@@ -1,0 +1,32 @@
+h1{
+    color:green;
+     text-align: center;
+     text-decoration: underline;
+}
+ul{
+    list-style: square;
+    margin-left:2cm;
+    
+}
+ul{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+ul ul{
+    list-style: circle;
+    text-decoration: underline;
+    margin-left: 5cm;
+}
+li em{
+    color: red;
+}
+a{
+    background-color: black;
+    text-align: left;
+    color: red;
+    text-decoration: underline;
+}
+a:hover{
+    color: chartreuse;
+}

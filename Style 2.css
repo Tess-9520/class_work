@@ -1,0 +1,11 @@
+.navbar{
+    height: 50px;
+    background-color: black;
+}
+a{
+    color: white;
+    line-height: 30;
+    float: left;
+    cursor: pointer;
+    padding: 10.5px 24px;
+}

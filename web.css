@@ -1,0 +1,38 @@
+.container{
+    height: 200px;
+    width: 2
+    00px;
+    border: 6px solid green;
+    background-color:gray;
+    background: url(cat.jpg)top  no-repeat;
+    padding-top: 50px;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 50px;
+    background-repeat: no-repeat;
+    background-position:top left;
+    background-size: 300px 300px;
+    margin:60px 30px 60px 30px;
+}
+body{
+    background: gray url(waterfall.jpg) no-repeat fixed top right;
+}
+.navbar{
+    width:auto;
+    height: 50px;
+    background-color:orange;
+    padding:20px;
+}
+a{
+    color: blue;
+    padding: 10px;
+    margin: 50PX;
+    text-decoration: none;
+}
+a:hover{
+ color: blueviolet;
+ background-color:black;
+}
+    
+
+
